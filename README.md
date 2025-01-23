@@ -7,4 +7,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiahmad7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="36%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aldiahmad7&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
